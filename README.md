@@ -1,6 +1,7 @@
 # HospitalMan
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
+Click on the link of GitHub Pages for the production ready application trial: https://dhiraj2018.github.io/TCS-Hiring-challenge2/hospitalMan/
 
 ## Development server
 
